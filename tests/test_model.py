@@ -1,5 +1,5 @@
 import torch
-from model import SimpleModel
+from ml_training_demo.model import SimpleModel
 
 def test_model_forward():
 
