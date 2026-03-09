@@ -1,5 +1,4 @@
-from dataset import RandomDataset
-
+from ml_training_demo.dataset import RandomDataset
 def test_dataset_output():
 
     dataset = RandomDataset()
